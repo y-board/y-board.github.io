@@ -19,23 +19,31 @@
 }
 
 /* SVG coloring */
-.cls-1 {
-    fill: #020202;
+.st0 {
+    fill: #2b2b2b;
 }
 
-.cls-2 {
-    fill: #fff;
-}
-
-.cls-3 {
+.st1 {
     fill: #c2c1c0;
 }
 
-.cls-4 {
+.st3 {
+    fill: #12243d;
+}
+
+.st4 {
+    fill: #020202;
+}
+
+.st5 {
+    fill: #fff;
+}
+
+.st6 {
     fill: #1a315b;
 }
 
-.ybadge-leds {
+.st2 {
     animation: rainbowAnimation 30s linear infinite;
 }
 
